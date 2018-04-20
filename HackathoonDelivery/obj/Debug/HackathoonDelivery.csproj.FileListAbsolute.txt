@@ -1,0 +1,10 @@
+C:\Users\Alexander-PC\source\repos\HackathoonDelivery\HackathoonDelivery\bin\Debug\HackathoonDelivery.exe.config
+C:\Users\Alexander-PC\source\repos\HackathoonDelivery\HackathoonDelivery\bin\Debug\HackathoonDelivery.exe
+C:\Users\Alexander-PC\source\repos\HackathoonDelivery\HackathoonDelivery\bin\Debug\HackathoonDelivery.pdb
+C:\Users\Alexander-PC\source\repos\HackathoonDelivery\HackathoonDelivery\obj\Debug\HackathoonDelivery.csprojResolveAssemblyReference.cache
+C:\Users\Alexander-PC\source\repos\HackathoonDelivery\HackathoonDelivery\obj\Debug\HackathoonDelivery.Form1.resources
+C:\Users\Alexander-PC\source\repos\HackathoonDelivery\HackathoonDelivery\obj\Debug\HackathoonDelivery.Properties.Resources.resources
+C:\Users\Alexander-PC\source\repos\HackathoonDelivery\HackathoonDelivery\obj\Debug\HackathoonDelivery.csproj.GenerateResource.Cache
+C:\Users\Alexander-PC\source\repos\HackathoonDelivery\HackathoonDelivery\obj\Debug\HackathoonDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Alexander-PC\source\repos\HackathoonDelivery\HackathoonDelivery\obj\Debug\HackathoonDelivery.exe
+C:\Users\Alexander-PC\source\repos\HackathoonDelivery\HackathoonDelivery\obj\Debug\HackathoonDelivery.pdb
